@@ -1,0 +1,17 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "A backend series",
+  "keywords": [
+    "Javascript",
+    "node",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Saqeeb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
